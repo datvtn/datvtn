@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhdatnv2712&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhdatnv2712&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhdatnv2712&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanhdatnv2712&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhdatnv2712&theme=vue)
+
