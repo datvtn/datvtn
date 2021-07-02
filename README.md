@@ -34,6 +34,6 @@ Hi there, I'm **Nguyen Viet Thanh Dat**, a **Kaggle Competitions Contributor**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![thanhdatnv2712's github stats](https://github-readme-stats.vercel.app/api?username=thanhdatnv2712&show_icons=true&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhdatnv2712&theme=vue)
+![thanhdatnv2712's github stats](https://github-readme-stats.vercel.app/api?username=v-datnvt2&show_icons=true&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-datnvt2&theme=vue)
 
